@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://github.com/wincoming/NAI.github.io/sitemap.xml
+Disallow: /

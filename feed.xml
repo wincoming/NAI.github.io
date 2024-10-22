@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>团客空间</title>
-    <link href="https://github.com/wincoming/NAI.github.io/feed.xml" rel="self" />
-    <link href="https://github.com/wincoming/NAI.github.io" />
+    <link href="https://github.com/wincoming/wincoming.github.io/feed.xml" rel="self" />
+    <link href="https://github.com/wincoming/wincoming.github.io" />
     <updated>2024-10-22T21:29:57+08:00</updated>
     <author>
         <name>wincoming</name>
     </author>
-    <id>https://github.com/wincoming/NAI.github.io</id>
+    <id>https://github.com/wincoming/wincoming.github.io</id>
 
     <entry>
         <title>ces</title>
         <author>
             <name>wincoming</name>
         </author>
-        <link href="https://github.com/wincoming/NAI.github.io/ces.html"/>
-        <id>https://github.com/wincoming/NAI.github.io/ces.html</id>
+        <link href="https://github.com/wincoming/wincoming.github.io/ces.html"/>
+        <id>https://github.com/wincoming/wincoming.github.io/ces.html</id>
 
         <updated>2024-10-22T19:07:44+08:00</updated>
             <summary>

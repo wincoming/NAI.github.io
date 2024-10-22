@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "团客空间",
     "description": "",
-    "home_page_url": "https://github.com/wincoming/NAI.github.io",
-    "feed_url": "https://github.com/wincoming/NAI.github.io/feed.json",
+    "home_page_url": "https://github.com/wincoming/wincoming.github.io",
+    "feed_url": "https://github.com/wincoming/wincoming.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "wincoming"
     },
     "items": [
         {
-            "id": "https://github.com/wincoming/NAI.github.io/ces.html",
-            "url": "https://github.com/wincoming/NAI.github.io/ces.html",
+            "id": "https://github.com/wincoming/wincoming.github.io/ces.html",
+            "url": "https://github.com/wincoming/wincoming.github.io/ces.html",
             "title": "ces",
             "summary": "ces",
             "content_html": "<p>ces</p>",
